@@ -29,12 +29,13 @@ Full methodology and discussion of limitations are in [REPORT.md](Report.md).
 
 | Chart | Description |
 |---|---|
-| [Volatility Comparison](charts/Chart_2_Volatility_Comparison.png) | Current vs. 10-year average volatility, by asset |
-| [Risk-Return Profile](charts/Chart_3_Risk_Return.png) | Volatility vs. annualized return, with Sharpe ratio = 1 reference line |
-| [Correlation Matrix](charts/Chart_4_Correlation_Matrix.png) | Cross-asset correlation heatmap |
-| [Maximum Drawdown](charts/Chart_5_Max_Drawdown.png) | Worst peak-to-trough decline by asset |
-| [Volatility Zone Classification](charts/Chart_6_Volatility_Zones.png) | Assets mapped against Low/Moderate/High/Very High volatility bands |
-| [Sharpe Ratio Comparison](charts/Chart_7_Sharpe_Ratio.png) | Risk-adjusted return by asset |
+| [Volatility Timeline](Charts/Chart_1_Volatility_timeline.png) | Current vs. 10-year average volatility, by asset |
+| [Volatility Comparison](Charts/Chart_2_Volatility_Comparison.png) | Current vs. 10-year average volatility, by asset |
+| [Risk-Return Profile](Charts/Chart_3_Risk_Return.png) | Volatility vs. annualized return, with Sharpe ratio = 1 reference line |
+| [Correlation Matrix](Charts/Chart_4_Correlation_Matrix.png) | Cross-asset correlation heatmap |
+| [Maximum Drawdown](Charts/Chart_5_Max_Drawdown.png) | Worst peak-to-trough decline by asset |
+| [Volatility Zone Classification](Charts/Chart_6_Volatility_Zones.png) | Assets mapped against Low/Moderate/High/Very High volatility bands |
+| [Sharpe Ratio Comparison](Charts/Chart_7_Sharpe_Ratio.png) | Risk-adjusted return by asset |
 
 ## Tools
 
