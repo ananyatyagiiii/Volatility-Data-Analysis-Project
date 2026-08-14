@@ -66,19 +66,19 @@ Investors increasingly weigh whether to include cryptocurrency alongside traditi
 
 ### 3.1 Volatility has fluctuated substantially over the decade, with crypto consistently far above equities
 
-![Volatility Timeline](charts/Chart_1_Volatility_Timeline.png)
+![Volatility Timeline](Charts/chart_1_volatility_timeline.png)
 
 The rolling volatility timeline shows how each asset's risk level evolved from 2014 through 2024. Several patterns stand out: Bitcoin and Ethereum spend virtually the entire period well above SPY and QQQ, and all four assets show visible volatility spikes clustered around the same market stress events, including the 2015 China currency devaluation, the 2018 VIX spike, the 2020 COVID-19 crash, and the 2022 Federal Reserve rate hikes. Ethereum in particular shows extreme spikes shortly after its 2017 data begins, exceeding 140% annualized volatility during the initial crypto boom, before gradually moderating (with occasional relapses) through 2024.
 
 ### 3.2 Crypto volatility is substantially higher than equity volatility
 
-![Volatility Comparison](charts/Chart_2_Volatility_Comparison.png)
+![Volatility Comparison](Charts/Chart_2_Volatility_Comparison.png)
 
 Averaged across the full ten-year period, Bitcoin's annualized volatility (71.44%) is roughly 4.9 times that of the S&P 500 (14.55%), and Ethereum's (88.67%) is roughly 6.1 times higher. Even the more growth-oriented Nasdaq-100 (17.77%) remains far closer to the S&P 500 than to either cryptocurrency.
 
 ### 3.3 Higher volatility does not translate proportionally into higher returns
 
-![Risk-Return Profile](charts/Chart_3_Risk_Return.png)
+![Risk-Return Profile](Charts/Chart_3_Risk_Return.png)
 
 Comparing volatility to annualized return reveals an inconsistent relationship:
 
@@ -91,7 +91,7 @@ The dashed reference line in the chart (where return equals volatility) makes th
 
 ### 3.4 Stock-crypto correlation is moderate, suggesting a partial diversification benefit
 
-![Correlation Matrix](charts/Chart_4_Correlation_Matrix.png)
+![Correlation Matrix](Charts/Chart_4_Correlation_Matrix.png)
 
 | | SPY | QQQ | BTC | ETH |
 |---|-----|-----|-----|-----|
@@ -110,7 +110,7 @@ It is worth noting that correlations between asset classes are not static; histo
 
 ### 3.5 Maximum drawdowns reveal the tail-risk difference between asset classes
 
-![Maximum Drawdown](charts/Chart_5_Max_Drawdown.png)
+![Maximum Drawdown](Charts/Chart_5_Max_Drawdown.png)
 
 | Asset | Maximum Drawdown |
 |-------|-------------------|
@@ -123,13 +123,13 @@ Beyond typical volatility, the worst-case historical outcome for each asset diff
 
 ### 3.6 Mapping current and average volatility against defined risk zones
 
-![Volatility Zone Classification](charts/Chart_6_Volatility_Zones.png)
+![Volatility Zone Classification](Charts/Chart_6_Volatility_Zones.png)
 
 Using the volatility bands defined in the methodology (Low: 0-15%, Moderate: 15-30%, High: 30-60%, Very High: 60%+), SPY and QQQ fall within the Low to Moderate zones across both their current and average readings. BTC and ETH, by contrast, sit solidly within the Very High zone in both current and average terms, though both show a modest decline in current volatility relative to their ten-year average, suggesting some recent stabilization relative to their historical norm.
 
 ### 3.7 Risk-adjusted returns (Sharpe ratio) tell a more nuanced story than raw volatility alone
 
-![Sharpe Ratio Comparison](charts/Chart_7_Sharpe_Ratio.png)
+![Sharpe Ratio Comparison](Charts/Chart_7_Sharpe_Ratio.png)
 
 | Asset | Sharpe Ratio | Interpretation |
 |-------|--------------|-----------------|
