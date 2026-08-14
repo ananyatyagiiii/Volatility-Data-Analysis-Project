@@ -29,7 +29,7 @@ Full methodology and discussion of limitations are in [REPORT.md](Report.md).
 
 | Chart | Description |
 |---|---|
-| [Volatility Timeline](Charts/Chart_1_volatility_timeline.png) | Volatility timeline, 12-Month Rolling Annualized Volatility |
+| [Volatility Timeline](Charts/chart_1_volatility_timeline.png) | Volatility timeline, 12-Month Rolling Annualized Volatility |
 | [Volatility Comparison](Charts/Chart_2_Volatility_Comparison.png) | Current vs. 10-year average volatility, by asset |
 | [Risk-Return Profile](Charts/Chart_3_Risk_Return.png) | Volatility vs. annualized return, with Sharpe ratio = 1 reference line |
 | [Correlation Matrix](Charts/Chart_4_Correlation_Matrix.png) | Cross-asset correlation heatmap |
