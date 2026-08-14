@@ -23,7 +23,7 @@ This project analyzes volatility, correlation, and risk-adjusted returns for fou
 - **Sharpe ratio:** Annualized return divided by annualized volatility (0% risk-free rate assumed).
 - **Maximum drawdown:** Largest peak-to-trough decline observed over the full period.
 
-Full methodology and discussion of limitations are in [REPORT.md](REPORT.md).
+Full methodology and discussion of limitations are in [REPORT.md](Report.md).
 
 ## Charts
 
